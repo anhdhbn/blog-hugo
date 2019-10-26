@@ -219,6 +219,3 @@ copyright = "Anh DH"            # default: author.name ↓        # 默认为下
 #  section = ["HTML", "RSS"]
 #  taxonomy = ["HTML", "RSS"]
 #  taxonomyTerm = ["HTML"]
-
-[context.production.environment]
-  HUGO_VERSION = "0.53"
